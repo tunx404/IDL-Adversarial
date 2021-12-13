@@ -4,7 +4,7 @@
 
 This repository contains code for the project "Defending against adversarial attacks" done by team 4, Introduction to Deep Learning course, CMU, Fall 2021.
 
-Code is mostly in the form of Jupyter Notebooks. Each folder contains code for each stage of the project.
+Code is mostly in the form of Jupyter Notebooks. Python script files are provided. Each folder contains code for each stage of the project.
 
 ##### Original paper
 
@@ -23,21 +23,25 @@ http://host.robots.ox.ac.uk:8080/pascal/VOC/voc2010/
 
 http://roozbehm.info/pascal-parts/pascal-parts.html
 
-### Authors
+### Authors & code contribution
 
 - Anh Le Hoang
     -  Carnegie Mellon University
     -  Pittsburgh, PA 15217
     -  alehoang@andrew.cmu.edu
+    -  Code contribution: Part 1, 2, 4
 -  Nicholas Magal
     -  Carnegie Mellon University
     -  Pittsburgh, PA 15217
     -  nmagal@andrew.cmu.edu
+    -  Code contribution: Part 2, 3
 -  Talha Faiz
     -  Carnegie Mellon University
     -  Pittsburgh, PA 15217
     -  mfaiz@andrew.cmu.edu
+    -  Code contribution: Part 1, 2
 -  Yi-Jing Sie
     -  Carnegie Mellon University
     -  Pittsburgh, PA 15217
     -  ysie@andrew.cmu.edu
+    -  Code contribution: Part 3, 5
